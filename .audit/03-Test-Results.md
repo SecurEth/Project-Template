@@ -11,9 +11,8 @@ What coverage misses are there?
 Why couldn't you cover them?
 Why is it necessary and not dead code?
 
-# Tool Results
+# Analysis Tool Results
 
 * [Tool A](03.1-Tool-A.md)
-
-## Tool 2 (e.g. Manticore)
-Same as above
+* [Tool B](03.2-Tool-B.md)
+* etc...

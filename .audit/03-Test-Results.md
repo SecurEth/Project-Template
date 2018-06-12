@@ -3,7 +3,7 @@ title: Test Results
 status: draft
 ---
 
-# Functional Test Failures
+# Functional Test Failures (optional)
 Explain any test failures (there should be none)
 
 # Coverage Test Failures

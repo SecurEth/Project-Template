@@ -16,6 +16,7 @@ Why is it necessary and not dead code?
 ## Tool 1 (e.g. Mythril)
 What false positives did Tool 1 find?
 Why are they false positives?
+(You can link to a separate file instead e.g. 03.1-Mythril.md)
 
 ## Tool 2 (e.g. Manticore)
 Same as above
